@@ -1,2 +1,2 @@
 # Confidence Estimation In DCVA
-Will be updated in 2025 February.
+Paper: https://ieeexplore.ieee.org/abstract/document/10764770
